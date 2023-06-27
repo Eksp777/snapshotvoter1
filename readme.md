@@ -86,3 +86,4 @@ node main.js <название_проекта> getprops
 Автор JanSergeev (telegram)
 
 Donate: 0x9D278054C3e73294215b63ceF34c385Abe52768B
+ok
